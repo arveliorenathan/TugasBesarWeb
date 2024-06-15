@@ -76,7 +76,7 @@ The Login and Register component allows users to access their accounts or create
 - Login form with email and password fields.
 - Registration form with username, email, and password fields.
 
-###Interface Design
+### Interface Design
 
 ![Login](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/239fa924-1a0a-4d43-bb8e-62b184cb37ef) ![Register](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/33fb25a0-23c2-4e5e-a37e-2f6e6a4e3d28)
 
@@ -87,7 +87,7 @@ This test feature is divided into 2. This includes:
 - OCEAN TEST
 - Aptitude Test
 
-###Interface Design
+### Interface Design
 
 ![Test 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/6618f9a8-4259-494f-a3d1-8c6c730ad841)
 
@@ -101,7 +101,7 @@ This feature is a personality test consisting of 5 tests that will be answered b
 - Agreeableness Test
 - Neuroticism Test
 
-###Interface Design
+### Interface Design
 
 ![Test 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/69243f7e-5e68-4911-944e-d723accec950) ![Test 4](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/dda0522e-2451-4547-ae23-b74928335575)
 
@@ -116,7 +116,7 @@ This feature is a test to measure a person's natural abilities and talents in va
 - Abstract Reasoning Test
 - Verbal Reasoning Test
 
-###Interface Design
+### Interface Design
 ![Test 3](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/784c979a-3e45-4539-a025-76e05287d4cc) ![Test 5](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/8fde4f9d-5d85-4c17-9974-f53e6e2b2eb9)
 
 ## Forum Discussion
@@ -126,7 +126,7 @@ This feature is a forum for users to hold discussions. Users can also create a d
 - Create Forum Discussion
 - Detail Forum Discussion
 
-###Interface Design
+### Interface Design
 
 ![Forum Discussion 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/e3d1ff25-956b-4710-81f4-16956e278d77) ![Forum Discussion 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/87440d6a-d89b-4f0d-9eaa-827dd0104ac3)
 
@@ -138,7 +138,7 @@ The Profile component allows users to manage their personal information and pref
 - Edit Profile
 - Logout
 
-###Interface Design
+### Interface Design
 
 ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/2d382d02-153b-4866-8001-a4a48147fa07) ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7e56ea78-d345-44df-8c87-b7f1f47493e1)
 
