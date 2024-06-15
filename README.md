@@ -66,6 +66,7 @@ The Splash Screen and Onboarding component guides new users through the initial 
 - Introduction to key features.
 
 Interface Design
+
 ![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/ca0d256a-7842-4931-b9cc-c9b753f545f2) ![OnBoarding](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7428ec66-70a9-410e-a372-44252a054992)
 
 ## Login and Register
@@ -76,6 +77,7 @@ The Login and Register component allows users to access their accounts or create
 - Registration form with username, email, and password fields.
 
 Interface Design
+
 ![Login](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/239fa924-1a0a-4d43-bb8e-62b184cb37ef) ![Register](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/33fb25a0-23c2-4e5e-a37e-2f6e6a4e3d28)
 
 ## Test
@@ -86,6 +88,7 @@ This test feature is divided into 2. This includes:
 - Aptitude Test
 
 Interface Design
+
 ![Test 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/6618f9a8-4259-494f-a3d1-8c6c730ad841)
 
 ### OCEAN Test 
@@ -99,6 +102,7 @@ This feature is a personality test consisting of 5 tests that will be answered b
 - Neuroticism Test
 
 Interface Design
+
 ![Test 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/69243f7e-5e68-4911-944e-d723accec950) ![Test 4](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/dda0522e-2451-4547-ae23-b74928335575)
 
 
@@ -123,6 +127,7 @@ This feature is a forum for users to hold discussions. Users can also create a d
 - Detail Forum Discussion
 
 Interface Design
+
 ![Forum Discussion 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/e3d1ff25-956b-4710-81f4-16956e278d77) ![Forum Discussion 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/87440d6a-d89b-4f0d-9eaa-827dd0104ac3)
 
 ## Profile
@@ -134,6 +139,7 @@ The Profile component allows users to manage their personal information and pref
 - Logout
 
 Interface Design
+
 ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/2d382d02-153b-4866-8001-a4a48147fa07) ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7e56ea78-d345-44df-8c87-b7f1f47493e1)
 
 
