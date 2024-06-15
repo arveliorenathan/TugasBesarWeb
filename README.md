@@ -65,7 +65,7 @@ The Splash Screen and Onboarding component guides new users through the initial 
 - Step-by-step onboarding process.
 - Introduction to key features.
 
-###Interface Design
+### Interface Design
 
 ![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/ca0d256a-7842-4931-b9cc-c9b753f545f2) ![OnBoarding](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7428ec66-70a9-410e-a372-44252a054992)
 
