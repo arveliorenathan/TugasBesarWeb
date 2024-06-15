@@ -1,66 +1,90 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <h1>NutriLens: NutriScore App for Healthy Lifestyle</h1>
+
+</div>
+
+# :open_book: About The Project
+<table>
+<tr>
+<th>Team ID</th>
+<th>Theme</th>
+</tr>
+<tr>
+<td>
+C241-PS146
+</td>
+<td>
+Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+</td>
+</tr>
+</table>
+<p align="justify">
+  Our team wants to create a NutriLens application that can decipher nutritional information from packaged food and 
+  beverages. Our project aims to address the issue of unclear and inaccurate understanding of nutritional information on 
+  packaged food and beverages in Indonesia. This problem statement illustrates the increasing public awareness of the 
+  importance of a healthy lifestyle, matched by the increasing consumption of packaged food and beverages. Through 
+  investigating this research question, we sought to gain a deeper understanding of the definition of Nutri-score, 
+  the problems faced in understanding nutritional information, the public knowledge of nutritional information and Nutri-score,
+  awareness of nutritional information and Nutri-score impact consumer decisions, the factors that influence their perceptions,
+  the state of relevant regulations, and the stakeholders involved. We highlight the importance of understanding balanced nutrition, 
+  which is the basis for the urgency of increasing public awareness of nutritional information and Nutri-score in Indonesia.
+  By applying scanner technology and machine learning, NutriLens will provide information regarding the nutri-score of the products. 
+  We see the NutriLens App as a potential solution but recognize its implementation challenges. 
+  By focusing on true problem-solving and adopting a design thinking approach, we hope to provide an effective solution for Indonesians to 
+  make healthier food choices. 
 </p>
+  
 
-## About Laravel
+# :wave: Us
+  | ID         | NAME          | PATH               | University                  | CONTACT                                                                                                                                                                                                                                                                                                                                                                                                                         |
+  |------------|---------------|--------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | M319D4KY2842  | Edbert | Machine Learning   | Universitas Sumatera Utara  | <a href="https://www.linkedin.com/in/edbert-b3a331269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Edbertt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                                      |
+  | M278D4KY2622  | Rafael Simson Riston | Machine Learning   | Universitas Negeri Makassar | <a href="https://www.linkedin.com/in/rafaelsimsonriston/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/xochaels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                                   |
+  | M253D4KY2403  | Muhamad Yuan Sastro Dimianta | Machine Learning   | Universitas Mataram       | <a href="https://www.linkedin.com/in/yuan-dimianta-0041b3293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/yuandimianta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                          |
+  | C253D4KY1061  | R. Muh. Gerald Dennaya Hd | Cloud Computing    | Universitas Mataram    | <a href="https://www.linkedin.com/in/gerald-dennaya-hadianto-b40228308/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/geraldhd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+  | C319D4KX0297   | Karina Angela Tobing | Cloud Computing    | Universitas Sumatera Utara | <a href="https://www.linkedin.com/in/karinaangela/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/angelarin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                                         |
+  | A319D4KY3857   | Christoffel Daniel Y. Tambunan | Mobile Development | Universitas Sumatera Utara  | <a href="https://www.linkedin.com/in/christoffel-tambunan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/chr15t0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                                                             |
+  | A253D4KX3940    | Tsabitah Aliyah Pratiwi | Mobile Development | Universitas Mataram  | <a href="https://www.linkedin.com/in/tsabitah-aliyah-pratiwi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/bitaaliya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                              |
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<!--  linkedin belum  cristo -->
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Repository  
+| Path               | Link Repository                                                                                                                                                            | 
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cloud Computing    | [Backend Services](https://github.com/NutriLens-Bangkit-2024/backend-services)                                                                                             |
+| Machine Learning   | 1. [OCR](https://github.com/NutriLens-Bangkit-2024/nutrion_grade_scanning) <br/> 2. [Grade Clasification](https://github.com/NutriLens-Bangkit-2024/nutrition_grade_model) |
+| Mobile Development | [App](https://github.com/NutriLens-Bangkit-2024/NutriLens_App)                                                                                                                                                                    |
+## :cloud: Cloud Computing
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+  This application uses the HAPI framework in the process of creating APIs for data processing. the storage media used are cloud storage and firestore. then in the deploy process it uses a cloud run because it feels suitable for this application (cost effective and scalable). 
+  
+  *Teach Stack*:
+  1. Hapi FrameWork: Framework that we use to create APIs in processing data needed in the application, such as registers, logins, data statistics and others.
+  2. Cloud Storage: image data storage media in this application.
+  3. FireStore: NOSQL-based storage of all data other than image data.
+  4. Cloud run: a Google Cloud service that lets you run containerized applications without managing servers. It automatically scales with traffic and supports any language or framework in a container.
 
-## Learning Laravel
+## :robot: Machine Learning
+<p align="justify">
+  The NutriLens application leverages two machine learning models to predict nutrition grades from food packaging. 
+  The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
+  a neural network for multi-class classification.
+</p>
+  
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+  *Teach Stack*:
+1. PaddleOCR: Utilized to extract text from images of food packaging. Regex is used to filter and refine the extracted information.
+2. Neural Network: A neural network is employed to classify the nutrition grade into 5 categories.
+3. FastAPI: FastAPI is used to create a robust and scalable API for handling requests and serving the machine learning models.
+4. Docker: Docker is used to containerize the application, ensuring a consistent environment for deployment and easy scalability.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## :iphone: Mobile Development
+  Description ..
+  
+  *Teach Stack*:
+  1. .
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Special Thanks 
+  ![special-thanks](https://github.com/NutriLens-Bangkit-2024/.github/blob/25eed6899057ca7e6a3678b0a6f9f9140aeba715/profile/asset/specialthanks.png)
