@@ -67,7 +67,8 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   a neural network for multi-class classification.
 </p>
 
-![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/9c518e20-b032-4a5a-b326-21f29cb43e4f)
+![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/9c518e20-b032-4a5a-b326-21f29cb43e4f) ![OnBoarding](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/8ce326d1-1273-43a4-9ae0-fc5995730ced)
+
 
   
 
