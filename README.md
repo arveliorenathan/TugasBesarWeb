@@ -44,42 +44,94 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 
 
-# Repository  
-| Path               | Link Repository                                                                                                                                                            | 
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cloud Computing    | [Backend Services](https://github.com/NutriLens-Bangkit-2024/backend-services)                                                                                             |
-| Machine Learning   | 1. [OCR](https://github.com/NutriLens-Bangkit-2024/nutrion_grade_scanning) <br/> 2. [Grade Clasification](https://github.com/NutriLens-Bangkit-2024/nutrition_grade_model) |
-| Mobile Development | [App](https://github.com/NutriLens-Bangkit-2024/NutriLens_App)                                                                                                                                                                    |
-## :cloud: Cloud Computing
+# Knowy Interface
 
-  This application uses the HAPI framework in the process of creating APIs for data processing. the storage media used are cloud storage and firestore. then in the deploy process it uses a cloud run because it feels suitable for this application (cost effective and scalable). 
-  
-  *Teach Stack*:
-  1. Hapi FrameWork: Framework that we use to create APIs in processing data needed in the application, such as registers, logins, data statistics and others.
-  2. Cloud Storage: image data storage media in this application.
-  3. FireStore: NOSQL-based storage of all data other than image data.
-  4. Cloud run: a Google Cloud service that lets you run containerized applications without managing servers. It automatically scales with traffic and supports any language or framework in a container.
+This repository contains the user interface components for the Knowy application. Below is an overview of each component:
 
-## :robot: Machine Learning
-<p align="justify">
-  The NutriLens application leverages two machine learning models to predict nutrition grades from food packaging. 
-  The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
-  a neural network for multi-class classification.
-</p>
+## Table of Contents
 
-![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/9c518e20-b032-4a5a-b326-21f29cb43e4f) ![OnBoarding](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/8ce326d1-1273-43a4-9ae0-fc5995730ced)
+- [Splash Screen and Onboarding](#splash-screen-and-onboarding)
+- [Login and Register](#login-and-register)
+- [Test](#test)
+- [Forum Discussion](#forum-discussion)
+- [Profile](#profile)
 
+## Splash Screen and Onboarding
 
-  
+The Splash Screen and Onboarding component guides new users through the initial setup and introduction to the app. This includes:
 
-  *Teach Stack*:
-1. PaddleOCR: Utilized to extract text from images of food packaging. Regex is used to filter and refine the extracted information.
-2. Neural Network: A neural network is employed to classify the nutrition grade into 5 categories.
-3. FastAPI: FastAPI is used to create a robust and scalable API for handling requests and serving the machine learning models.
-4. Docker: Docker is used to containerize the application, ensuring a consistent environment for deployment and easy scalability.
+- Splash screen with the Knowy logo.
+- Step-by-step onboarding process.
+- Introduction to key features.
 
-## :iphone: Mobile Development
-  Description ..
-  
-  *Teach Stack*:
-  1. .
+### Features
+
+- Visually appealing splash screen.
+- Interactive onboarding steps.
+- Smooth transitions between screens.
+
+## Login and Register
+
+The Login and Register component allows users to access their accounts or create new ones. This includes:
+
+- Login form with email and password fields.
+- Registration form with user details.
+- Password recovery options.
+
+### Features
+
+- Secure authentication.
+- Validation for input fields.
+- Error messages for incorrect login attempts.
+
+## Test
+
+The Test component provides a platform for users to take various assessments. This includes:
+
+- A list of available tests.
+- Detailed instructions for each test.
+- Real-time progress tracking.
+
+### Features
+
+- User-friendly test interface.
+- Timers and progress indicators.
+- Immediate feedback on completion.
+
+## Forum Discussion
+
+The Forum Discussion component facilitates user interaction and community building. This includes:
+
+- Threads for various topics.
+- Ability to post new threads and reply to existing ones.
+- Upvoting and reporting posts.
+
+### Features
+
+- Organized thread categories.
+- Rich text editor for posts.
+- Notification system for thread updates.
+
+## Profile
+
+The Profile component allows users to manage their personal information and preferences. This includes:
+
+- Displaying user information.
+- Editing personal details.
+- Viewing test history and forum activity.
+
+### Features
+
+- User-friendly profile editing.
+- Privacy and notification settings.
+- History of user interactions.
+
+## Installation
+
+To install and run the Knowy Interface locally:
+
+```bash
+git clone https://github.com/yourusername/knowy-interface.git
+cd knowy-interface
+npm install
+npm start
