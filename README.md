@@ -84,7 +84,3 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   
   *Teach Stack*:
   1. .
-
-
-# Special Thanks 
-  ![special-thanks](https://github.com/NutriLens-Bangkit-2024/.github/blob/25eed6899057ca7e6a3678b0a6f9f9140aeba715/profile/asset/specialthanks.png)
