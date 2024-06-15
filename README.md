@@ -44,7 +44,7 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 
 
-# Knowy Interface
+# Knowy Features
 
 This repository contains the user interface components for the Knowy application. Below is an overview of each component:
 
@@ -52,7 +52,8 @@ This repository contains the user interface components for the Knowy application
 
 - [Splash Screen and Onboarding](#splash-screen-and-onboarding)
 - [Login and Register](#login-and-register)
-- [Test](#test)
+- [OCEAN Test](#ocean-test)
+- [Aptitude Test](#aptitude-test)
 - [Forum Discussion](#forum-discussion)
 - [Profile](#profile)
 
@@ -64,74 +65,81 @@ The Splash Screen and Onboarding component guides new users through the initial 
 - Step-by-step onboarding process.
 - Introduction to key features.
 
-### Features
-
-- Visually appealing splash screen.
-- Interactive onboarding steps.
-- Smooth transitions between screens.
+Interface Design
+- ![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/ca0d256a-7842-4931-b9cc-c9b753f545f2)
+- ![OnBoarding](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7428ec66-70a9-410e-a372-44252a054992)
 
 ## Login and Register
 
 The Login and Register component allows users to access their accounts or create new ones. This includes:
 
 - Login form with email and password fields.
-- Registration form with user details.
-- Password recovery options.
+- Registration form with username, email, and password fields.
 
-### Features
-
-- Secure authentication.
-- Validation for input fields.
-- Error messages for incorrect login attempts.
+Interface Design
+- ![Login](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/239fa924-1a0a-4d43-bb8e-62b184cb37ef)
+- ![Register](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/33fb25a0-23c2-4e5e-a37e-2f6e6a4e3d28)
 
 ## Test
 
-The Test component provides a platform for users to take various assessments. This includes:
+This test feature is divided into 2. This includes:
 
-- A list of available tests.
-- Detailed instructions for each test.
-- Real-time progress tracking.
+- OCEAN TEST
+- Aptitude Test
 
-### Features
+Interface Design
+- ![Test 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/6618f9a8-4259-494f-a3d1-8c6c730ad841)
 
-- User-friendly test interface.
-- Timers and progress indicators.
-- Immediate feedback on completion.
+### OCEAN Test 
+
+This feature is a personality test consisting of 5 tests that will be answered by the user, and the results of these tests will be used as a reference for the main feature. This includes:
+
+- Openess Test
+- Conscientousness Test
+- Extraversion Test
+- Agreeableness Test
+- Neuroticism Test
+
+Interface Design
+- ![Test 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/69243f7e-5e68-4911-944e-d723accec950)
+- ![Test 4](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/dda0522e-2451-4547-ae23-b74928335575)
+
+
+### Aptitude Test
+
+This feature is a test to measure a person's natural abilities and talents in various fields consisting of 5 tests that will be answered by the user, and the results of these tests will be used as a reference for the main feature. This includes:
+
+- Numerical Aptitude Test
+- Spatial Aptitude Test
+- Perceptual Aptitude Test
+- Abstract Reasoning Test
+- Verbal Reasoning Test
+
+Interface Design
+- ![Test 3](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/784c979a-3e45-4539-a025-76e05287d4cc)
+- ![Test 5](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/8fde4f9d-5d85-4c17-9974-f53e6e2b2eb9)
 
 ## Forum Discussion
 
-The Forum Discussion component facilitates user interaction and community building. This includes:
+This feature is a forum for users to hold discussions. Users can also create a discussion and other users can comment on the discussion. This includes:
 
-- Threads for various topics.
-- Ability to post new threads and reply to existing ones.
-- Upvoting and reporting posts.
+- Create Forum Discussion
+- Detail Forum Discussion
 
-### Features
-
-- Organized thread categories.
-- Rich text editor for posts.
-- Notification system for thread updates.
+Interface Design
+- ![Forum Discussion 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/e3d1ff25-956b-4710-81f4-16956e278d77)
+- ![Forum Discussion 2](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/87440d6a-d89b-4f0d-9eaa-827dd0104ac3)
 
 ## Profile
 
 The Profile component allows users to manage their personal information and preferences. This includes:
 
 - Displaying user information.
-- Editing personal details.
-- Viewing test history and forum activity.
+- Edit Profile
+- Logout
 
-### Features
+Interface Design
+- ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/2d382d02-153b-4866-8001-a4a48147fa07)
+- ![Profile 1](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/7e56ea78-d345-44df-8c87-b7f1f47493e1)
 
-- User-friendly profile editing.
-- Privacy and notification settings.
-- History of user interactions.
 
-## Installation
-
-To install and run the Knowy Interface locally:
-
-```bash
-git clone https://github.com/yourusername/knowy-interface.git
-cd knowy-interface
-npm install
-npm start
