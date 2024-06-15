@@ -36,7 +36,7 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 </p>
   
 
-# :wave: Us
+# 👦: Mobile Developer
   | ID         | NAME          | University                  | CONTACT                                                                                                                                                                                                                                                                                                                                                                                                                         |
   |------------|---------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   | A253D4KY4198  | Arvelio Renathan Budisantoso | University of Mataram  | <a href="https://www.linkedin.com/in/edbert-b3a331269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                                                                                                    |
