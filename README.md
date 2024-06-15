@@ -66,6 +66,9 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
   a neural network for multi-class classification.
 </p>
+
+![SplashScreen](https://github.com/arveliorenathan/TugasBesarWeb/assets/116048191/9c518e20-b032-4a5a-b326-21f29cb43e4f)
+
   
 
   *Teach Stack*:
